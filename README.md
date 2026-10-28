@@ -1,64 +1,66 @@
 # godata-br
 
-Brazilian reference data and tooling for [Go.Data](https://www.who.int/tools/godata), WHO's outbreak investigation and contact tracing tool.
+> **English:** Brazilian reference data for WHO's [Go.Data](https://www.who.int/tools/godata). It provides a ready-to-import location tree (27 states and 5,571 municipalities, with IBGE and SINAN codes) and an indigenous health districts tree (34 DSEIs), validated on Go.Data 2.50.3. It also includes a Docker setup that builds Go.Data from source. The documentation below is in Portuguese.
 
-Brazil is the largest Go.Data user in Latin America. About 15 states run their own servers, and the Ministry of Health has run a national one since 2024. Every one of these servers has to load a location tree before the first outbreak can be created, and Go.Data does not ship with one. This repository provides that tree, ready to import.
+Dados de referência e ferramentas brasileiras para o [Go.Data](https://www.who.int/tools/godata), a ferramenta da OMS para investigação de surtos e rastreamento de contatos.
 
-## Location files (`dist/`)
+O Brasil é o maior usuário do Go.Data na América Latina. São cerca de 15 estados com servidor próprio, mais o servidor nacional do Ministério da Saúde, em uso desde 2024. Cada servidor precisa carregar uma árvore de localidades antes de criar o primeiro surto, e o Go.Data não vem com nenhuma. Este repositório entrega essa árvore pronta para importar.
 
-| File | Content | Records |
+## Arquivos de localidades (`dist/`)
+
+| Arquivo | Conteúdo | Registros |
 |---|---|---|
-| `brasil-uf-municipios.json` / `.csv` | Brasil → 27 UFs → 5,571 municípios (IBGE) | 5,599 |
-| `brasil-dsei-polos-base.json` / `.csv` | DSEI root → 34 DSEIs → 158 Polos Base (CNES) | 193 |
+| `brasil-uf-municipios.json` / `.csv` | Brasil → 27 UFs → 5.571 municípios (IBGE) | 5.599 |
+| `brasil-dsei-polos-base.json` / `.csv` | Raiz DSEI → 34 DSEIs → 158 Polos Base (CNES) | 193 |
 
-Each location carries:
+Cada localidade traz:
 
-- **IBGE code (7 digits)** and **IBGE6 (6 digits, the code used by SINAN)** as identifiers. You can match SINAN notifications to Go.Data locations without a lookup table.
-- Coordinates of the municipal seat (UFs: centroid).
-- The accent-free name as a synonym (`Amaturá` → `Amatura`), and the UF abbreviation for states.
-- Stable IDs (`br-uf-13`, `br-mun-1302603`, `br-dsei-yanomami`, `br-polo-<CNES>`). If you re-import, records are updated instead of duplicated, and other systems can reference them.
+- **Código IBGE de 7 dígitos** e **IBGE6 (6 dígitos, o código usado pelo SINAN)** como identificadores. Assim é possível casar notificações do SINAN com localidades do Go.Data sem tabela de conversão.
+- Coordenadas da sede municipal. Nas UFs, o centroide.
+- Nome sem acento como sinônimo (`Amaturá` → `Amatura`) e a sigla, no caso das UFs.
+- IDs estáveis (`br-uf-13`, `br-mun-1302603`, `br-dsei-yanomami`, `br-polo-<CNES>`). Uma nova importação atualiza os registros em vez de duplicá-los, e outros sistemas podem referenciar esses IDs.
 
-The `.json` files use Go.Data's hierarchical import format. The `.csv` files follow the columns of WHO's Excel templates (`NAME, ID, CODE, LONG, LAT, ADMIN_LEVEL, PARENTLOCATIONID`).
+Os arquivos `.json` usam o formato de importação hierárquica do Go.Data. Os `.csv` seguem as colunas dos modelos em Excel da OMS (`NAME, ID, CODE, LONG, LAT, ADMIN_LEVEL, PARENTLOCATIONID`).
 
-### DSEI tree: scope and limitations
+### Árvore DSEI: escopo e limitações
 
-- **Included:** the 34 DSEIs (SESAI/MS), plus every active Polo Base whose CNES record names its DSEI. That is 158 of the ~350 active Polos Base in CNES.
-- **Not included:** the remaining Polos Base. Their CNES records list a generic owner ("MINISTERIO DA SAUDE"), so the DSEI cannot be determined reliably. The authoritative DSEI ↔ Polo Base table lives in SIASI and has been requested from SESAI.
-- **DSEIs that appear with no Polos Base yet:** Altamira, Kaiapó do Mato Grosso, Minas Gerais e Espírito Santo, Parintins, Vale do Javari.
-- **Coordinates:** some Polos Base share the same coordinates, because CNES uses the municipal seat as a placeholder.
+- **Incluídos:** os 34 DSEIs (SESAI/MS) e todos os Polos Base ativos cujo cadastro no CNES identifica o DSEI. São 158 dos cerca de 350 Polos Base ativos no CNES.
+- **Fora desta versão:** os demais Polos Base. No CNES eles aparecem com um mantenedor genérico ("MINISTERIO DA SAUDE"), o que não permite saber o DSEI com segurança. A tabela oficial DSEI ↔ Polo Base fica no SIASI.
+- **DSEIs sem nenhum Polo Base identificado por enquanto:** Altamira, Kaiapó do Mato Grosso, Minas Gerais e Espírito Santo, Parintins e Vale do Javari.
+- **Coordenadas:** alguns Polos Base têm coordenadas repetidas, porque o CNES usa a sede do município como valor provisório.
 
-## Importing
+## Como importar
 
-**Web app:** Locations → Quick actions → Import → choose the `.json` file.
+**Pela interface:** Localidades → Ações rápidas → Importar → escolha o arquivo `.json`.
 
-**API:**
+**Pela API:**
 
 ```bash
-curl -X POST "https://<server>/api/locations/import?access_token=<token>" \
+curl -X POST "https://<servidor>/api/locations/import?access_token=<token>" \
      -F "file=@dist/brasil-uf-municipios.json;type=application/json"
 ```
 
-Validated on Go.Data **2.50.3**. The full Brazil tree takes about 2 minutes to import, and the DSEI tree about 7 seconds.
+Validado no Go.Data **2.50.3**. A árvore do Brasil completa leva cerca de 2 minutos para importar, e a de DSEIs cerca de 7 segundos.
 
-> **Gotcha:** the built-in `admin@who.int` (System administrator) **cannot import locations**. It lacks the `location_import` permission and cannot change its own roles. Create a user with the **Reference data manager** role and import with that user.
+> **Atenção:** o usuário padrão `admin@who.int` (perfil System administrator) **não consegue importar localidades**. Ele não tem a permissão `location_import` e também não pode alterar os próprios perfis. Crie um usuário com o perfil **Reference data manager** e faça a importação com ele.
 
-![Location tree in Go.Data](docs/img/02-amazonas-municipios-pt.png)
+![Árvore de localidades no Go.Data](docs/img/02-amazonas-municipios-pt.png)
 
-## Regenerating
+## Como regenerar os arquivos
 
 ```bash
 python src/build_locations.py
 ```
 
-The script reads from `data/raw/`, which is not versioned:
+O script lê os dados de `data/raw/`, que não é versionado:
 
-- [IBGE localidades API](https://servicodados.ibge.gov.br/api/docs/localidades): `ibge_estados.json` and `ibge_municipios.json` (`?view=nivelado`)
-- [kelvins/municipios-brasileiros](https://github.com/kelvins/municipios-brasileiros) (MIT): `estados.csv` and `municipios.csv` (coordinates)
-- [OpenDataSUS CNES](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/CNES/cnes_estabelecimentos.zip): `cnes_estab.zip`
+- [API de localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/localidades): `ibge_estados.json` e `ibge_municipios.json` (`?view=nivelado`)
+- [kelvins/municipios-brasileiros](https://github.com/kelvins/municipios-brasileiros) (licença MIT): `estados.csv` e `municipios.csv`, para as coordenadas
+- [CNES no OpenDataSUS](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/CNES/cnes_estabelecimentos.zip): `cnes_estab.zip`
 
-## Running Go.Data locally (Docker)
+## Rodando o Go.Data localmente (Docker)
 
-WHO provides no official Docker image. `docker/` builds Go.Data from the official sources:
+A OMS não publica uma imagem Docker oficial. A pasta `docker/` compila o Go.Data a partir do código-fonte oficial:
 
 ```bash
 git clone --depth 1 https://github.com/WorldHealthOrganization/GoDataSource-API vendor/GoDataSource-API
@@ -66,19 +68,19 @@ git clone --depth 1 https://github.com/WorldHealthOrganization/GoDataSource-Fron
 cd docker && docker compose up -d --build   # http://localhost:8000  (admin@who.int / admin)
 ```
 
-The first start initializes and migrates the database, which takes a few minutes.
+Na primeira execução o banco é inicializado e migrado, o que leva alguns minutos.
 
-## Portuguese translation findings
+## Diagnóstico da tradução para português (versão oficial 2.50.3)
 
-The bundled "Português" language (`portuguese_pt`) is incomplete:
+O idioma "Português" (`portuguese_pt`) que acompanha a versão oficial está incompleto:
 
-- **5,589 of 9,785 strings (57%) are identical to English.** About 4,800 of them are UI strings, not help text.
-- **548 strings are copied from Spanish** (e.g. "Registro de auditoría", "nube").
-- Some strings are mistranslated. For example, the Locations page title reads "Locais para criança" ("places for children"), and the coordinates column reads "Lat / GNL".
-- The language follows European Portuguese conventions ("contacto", "utilizador", "registo").
+- **5.589 de 9.785 textos (57%) são idênticos ao inglês.** Cerca de 4.800 deles são textos da interface, não da ajuda.
+- **548 textos foram copiados do espanhol**, como "Registro de auditoría" e "nube".
+- Há traduções erradas. O título da página de localidades aparece como "Locais para criança", e a coluna de coordenadas como "Lat / GNL".
+- O vocabulário segue o português europeu ("contacto", "utilizador", "registo").
 
-`analysis/pt-traducao-pendente.csv` lists every affected string (snapshot of the official 2.50.3 release).
+A lista completa está em `analysis/pt-traducao-pendente.csv`.
 
-## License
+## Licença
 
-Code: Apache-2.0. Data: derived from IBGE, CNES/OpenDataSUS and kelvins/municipios-brasileiros (MIT); see their respective terms.
+Código: Apache-2.0. Dados: derivados do IBGE, do CNES/OpenDataSUS e de kelvins/municipios-brasileiros (MIT). Consulte os termos de cada fonte.
