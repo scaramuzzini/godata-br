@@ -1,0 +1,4238 @@
+[
+ {
+  "location": {
+   "id": "br-dsei",
+   "name": "Brasil - Distritos Sanitários Especiais Indígenas (DSEI)",
+   "active": true,
+   "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_0",
+   "identifiers": [],
+   "synonyms": [
+    "DSEI",
+    "SESAI"
+   ]
+  },
+  "children": [
+   {
+    "location": {
+     "id": "br-dsei-alagoas-sergipe",
+     "name": "DSEI Alagoas e Sergipe",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-6352219",
+       "name": "Polo Base Indigena Kalanko",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6352219",
+         "description": "CNES"
+        },
+        {
+         "code": "270010",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.262,
+        "lng": -37.938
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4147847",
+       "name": "Polo Base de Saude Indigena Koiupanka",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4147847",
+         "description": "CNES"
+        },
+        {
+         "code": "270330",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.2157070565,
+        "lng": -37.7555680275
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-altamira",
+     "name": "DSEI Altamira",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": []
+   },
+   {
+    "location": {
+     "id": "br-dsei-alto-rio-jurua",
+     "name": "DSEI Alto Rio Juruá",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Alto Rio Jurua"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-6430201",
+       "name": "Polo Base Indigena",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6430201",
+         "description": "CNES"
+        },
+        {
+         "code": "120032",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.2349597921,
+        "lng": -71.7640686035
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6917682",
+       "name": "Polo Base de Cruzeiro do Sul",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6917682",
+         "description": "CNES"
+        },
+        {
+         "code": "120020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.7349125743,
+        "lng": -72.5378966331
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6748759",
+       "name": "Polo Base de Feijo",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6748759",
+         "description": "CNES"
+        },
+        {
+         "code": "120030",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.1607715119,
+        "lng": -70.3533983231
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6955525",
+       "name": "Polo Base de Mancio Lima",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6955525",
+         "description": "CNES"
+        },
+        {
+         "code": "120033",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.6067870454,
+        "lng": -72.9077625275
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7625855",
+       "name": "Polo Base de Marechal Thaumaturgo",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7625855",
+         "description": "CNES"
+        },
+        {
+         "code": "120035",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.9454024074,
+        "lng": -72.78765
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6308740",
+       "name": "Polo Base de Porto Walter",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6308740",
+         "description": "CNES"
+        },
+        {
+         "code": "120039",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.264050094,
+        "lng": -72.7438044548
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-alto-rio-negro",
+     "name": "DSEI Alto Rio Negro",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7620144",
+       "name": "Polo Base Camarao",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620144",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.6217667611,
+        "lng": -67.4480617046
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620241",
+       "name": "Polo Base Caruru do Tiquie",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620241",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.0219726557,
+        "lng": -67.4615478516
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620306",
+       "name": "Polo Base Cucui",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620306",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.0,
+        "lng": -66.502263
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620152",
+       "name": "Polo Base Ilha Das Flores",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620152",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.01441876,
+        "lng": -67.16149304
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620217",
+       "name": "Polo Base Juruti",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620217",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.37348132,
+        "lng": -67.14557232
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620853",
+       "name": "Polo Base Marabitana do Waupes",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620853",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.13,
+        "lng": -67.089
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7777930",
+       "name": "Polo Base Santa Isabel do Rio Negro Dsei Arn",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7777930",
+         "description": "CNES"
+        },
+        {
+         "code": "130360",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.4195568,
+        "lng": -65.0089449
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9493425",
+       "name": "Polo Base Sao Gabriel do Papuri",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9493425",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.13,
+        "lng": -67.089
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620195",
+       "name": "Polo Base Sao Jose Ii",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620195",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.13,
+        "lng": -67.089
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620233",
+       "name": "Polo Base Taperera",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620233",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.22243264,
+        "lng": -66.171716
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9523022",
+       "name": "Polo Base Taracua",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9523022",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.0758214,
+        "lng": -68.3262008
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9523006",
+       "name": "Polo Base Tucuma",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9523006",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.29229812,
+        "lng": -68.384272
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620187",
+       "name": "Polo Base Tunui Cachoeira",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620187",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.1095497845,
+        "lng": -67.9943847656
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7620160",
+       "name": "Polo Base Vila Nova",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7620160",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.574767,
+        "lng": -67.1096866
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-alto-rio-purus",
+     "name": "DSEI Alto Rio Purus",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7299761",
+       "name": "Polo Base de Boca do Acre",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7299761",
+         "description": "CNES"
+        },
+        {
+         "code": "130070",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.7754185836,
+        "lng": -67.3301625252
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7532962",
+       "name": "Polo Base de Extrema",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7532962",
+         "description": "CNES"
+        },
+        {
+         "code": "110020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.6679180024,
+        "lng": -63.984375
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2965941",
+       "name": "Polo Base de Manoel Urbano",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2965941",
+         "description": "CNES"
+        },
+        {
+         "code": "120034",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.838597921,
+        "lng": -69.2596149445
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6289312",
+       "name": "Polo Base de Santa Rosa do Purus",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6289312",
+         "description": "CNES"
+        },
+        {
+         "code": "120043",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.4433044817,
+        "lng": -70.485534668
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-alto-rio-solimoes",
+     "name": "DSEI Alto Rio Solimões",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Alto Rio Solimoes"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-5591171",
+       "name": "Polo Base Feijoal",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "5591171",
+         "description": "CNES"
+        },
+        {
+         "code": "130060",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.3005315939,
+        "lng": -69.5412522554
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-5480000",
+       "name": "Polo Base Filadelfia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "5480000",
+         "description": "CNES"
+        },
+        {
+         "code": "130060",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.3844304,
+        "lng": -69.9944656
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7007507",
+       "name": "Polo Base Nova Italia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7007507",
+         "description": "CNES"
+        },
+        {
+         "code": "130006",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.4092627574,
+        "lng": -68.2252264023
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9329749",
+       "name": "Polo Base Sao Francisco de Canimari",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9329749",
+         "description": "CNES"
+        },
+        {
+         "code": "130006",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.3883354863,
+        "lng": -68.3493804932
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7194218",
+       "name": "Polo Base Sao Sebastiao",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7194218",
+         "description": "CNES"
+        },
+        {
+         "code": "130423",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -2.7448448613,
+        "lng": -67.6232528687
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-5244714",
+       "name": "Polo Base Vila Bittencourt",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "5244714",
+         "description": "CNES"
+        },
+        {
+         "code": "130210",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -1.8344033245,
+        "lng": -67.2033691406
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6992803",
+       "name": "Polo Base de Belem do Solimoes",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6992803",
+         "description": "CNES"
+        },
+        {
+         "code": "130406",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.253,
+        "lng": -69.938
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7295820",
+       "name": "Polo Base de Betania",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7295820",
+         "description": "CNES"
+        },
+        {
+         "code": "130370",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.102,
+        "lng": -67.94
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6818404",
+       "name": "Polo Base de Campo Alegre",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6818404",
+         "description": "CNES"
+        },
+        {
+         "code": "130390",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.5134210456,
+        "lng": -69.0435791016
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6938884",
+       "name": "Polo Base de Sao Paulo de Olivenca",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6938884",
+         "description": "CNES"
+        },
+        {
+         "code": "130390",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.4818941876,
+        "lng": -68.9543151855
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6955967",
+       "name": "Polo Base de Umariacu I",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6955967",
+         "description": "CNES"
+        },
+        {
+         "code": "130406",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.253,
+        "lng": -69.938
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6712606",
+       "name": "Polo Base de Umariacu Ii",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6712606",
+         "description": "CNES"
+        },
+        {
+         "code": "130406",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.253,
+        "lng": -69.938
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6771513",
+       "name": "Polo Base de Vendaval",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6771513",
+         "description": "CNES"
+        },
+        {
+         "code": "130390",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.4642455393,
+        "lng": -69.1197967529
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-amapa-norte-para",
+     "name": "DSEI Amapá e Norte do Pará",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Amapa e Norte do Para"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-2021412",
+       "name": "Dsei Ap Polo Base de Saude Indigena Aramira",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2021412",
+         "description": "CNES"
+        },
+        {
+         "code": "160015",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.1134114388,
+        "lng": -52.580909729
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2021110",
+       "name": "Dsei Ap Polo Base de Saude Indigena Kumaruma",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2021110",
+         "description": "CNES"
+        },
+        {
+         "code": "160050",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.3810866,
+        "lng": -51.3000597
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2021102",
+       "name": "Dsei Ap Polo Base de Saude Indigena Kumene",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2021102",
+         "description": "CNES"
+        },
+        {
+         "code": "160050",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.4805234306,
+        "lng": -51.6989135742
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2021137",
+       "name": "Dsei Ap Polo Base de Saude Indigena Manga",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2021137",
+         "description": "CNES"
+        },
+        {
+         "code": "160050",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.7668172153,
+        "lng": -51.7868900299
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-494747",
+       "name": "Dsei Polo Base Bona Apalai",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "494747",
+         "description": "CNES"
+        },
+        {
+         "code": "150050",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -1.5188750537,
+        "lng": -52.5835490227
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-araguaia",
+     "name": "DSEI Araguaia",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7738110",
+       "name": "Polo Base de Saude Indigena de Sao Felix do Araguaia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7738110",
+         "description": "CNES"
+        },
+        {
+         "code": "510785",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -11.615807,
+        "lng": -50.662631
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-bahia",
+     "name": "DSEI Bahia",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7502354",
+       "name": "Polo Base de Ilheus",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7502354",
+         "description": "CNES"
+        },
+        {
+         "code": "291360",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -14.7866049,
+        "lng": -39.0457752
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7821840",
+       "name": "Polo Base de Juazeiro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7821840",
+         "description": "CNES"
+        },
+        {
+         "code": "291840",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.4141564463,
+        "lng": -40.5029439926
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7496915",
+       "name": "Polo Base de Pau Brasil",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7496915",
+         "description": "CNES"
+        },
+        {
+         "code": "292390",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -15.4639239127,
+        "lng": -39.6528798307
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7340060",
+       "name": "Polo Base de Paulo Afonso",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7340060",
+         "description": "CNES"
+        },
+        {
+         "code": "292400",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.396456,
+        "lng": -38.2333224
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7494335",
+       "name": "Polo Base de Porto Seguro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7494335",
+         "description": "CNES"
+        },
+        {
+         "code": "292530",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -16.45,
+        "lng": -39.065
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7735200",
+       "name": "Polo Base de Ribeira do Pombal",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7735200",
+         "description": "CNES"
+        },
+        {
+         "code": "292660",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -10.831598883,
+        "lng": -38.5440945625
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-ceara",
+     "name": "DSEI Ceará",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Ceara"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-2806355",
+       "name": "Polo Base Varjota",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2806355",
+         "description": "CNES"
+        },
+        {
+         "code": "230655",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -2.9853309674,
+        "lng": -39.8217701912
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-cuiaba",
+     "name": "DSEI Cuiabá",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Cuiaba"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7452128",
+       "name": "Polo Base Aldeia Pakuera",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7452128",
+         "description": "CNES"
+        },
+        {
+         "code": "510630",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -14.29898516,
+        "lng": -54.6281433105
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7567367",
+       "name": "Polo Base Brasnorte",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7567367",
+         "description": "CNES"
+        },
+        {
+         "code": "510190",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -12.072608,
+        "lng": -57.9995727539
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7427018",
+       "name": "Polo Base Cuiaba",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7427018",
+         "description": "CNES"
+        },
+        {
+         "code": "510340",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -15.354941,
+        "lng": -56.061801
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7080158",
+       "name": "Polo Base Rio Verde",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7080158",
+         "description": "CNES"
+        },
+        {
+         "code": "510795",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -14.6191117858,
+        "lng": -57.4859404564
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7458444",
+       "name": "Polo Base Rondonopolis",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7458444",
+         "description": "CNES"
+        },
+        {
+         "code": "510760",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -16.4713163496,
+        "lng": -54.6358251572
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7617453",
+       "name": "Polo Base Tangara da Serra",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7617453",
+         "description": "CNES"
+        },
+        {
+         "code": "510795",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -14.6128620397,
+        "lng": -57.4970340729
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-guama-tocantins",
+     "name": "DSEI Guamá-Tocantins",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Guama-Tocantins"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7436319",
+       "name": "Polo Base Oriximina",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7436319",
+         "description": "CNES"
+        },
+        {
+         "code": "150530",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -1.7762175577,
+        "lng": -55.8611440659
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7573049",
+       "name": "Polo Base de Saude Aldeia Indigena de Tome Acu Ii",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7573049",
+         "description": "CNES"
+        },
+        {
+         "code": "150800",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -2.419,
+        "lng": -48.152
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-interior-sul",
+     "name": "DSEI Interior Sul",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7941765",
+       "name": "Polo Base Guarita",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7941765",
+         "description": "CNES"
+        },
+        {
+         "code": "432140",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -27.37550208,
+        "lng": -53.74989957
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-kaiapo-mato-grosso",
+     "name": "DSEI Kaiapó do Mato Grosso",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Kaiapo do Mato Grosso"
+     ]
+    },
+    "children": []
+   },
+   {
+    "location": {
+     "id": "br-dsei-kaiapo-para",
+     "name": "DSEI Kaiapó do Pará",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Kaiapo do Para"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7494548",
+       "name": "Polo Base Ourilandia do Norte",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7494548",
+         "description": "CNES"
+        },
+        {
+         "code": "150543",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.7638079675,
+        "lng": -51.0653328896
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7504179",
+       "name": "Polo Base Sao Felix do Xingu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7504179",
+         "description": "CNES"
+        },
+        {
+         "code": "150730",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.6394153369,
+        "lng": -51.9843864441
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7496397",
+       "name": "Polo Base Tucuma",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7496397",
+         "description": "CNES"
+        },
+        {
+         "code": "150808",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.76001,
+        "lng": -51.157286
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-leste-roraima",
+     "name": "DSEI Leste de Roraima",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-9187243",
+       "name": "Polo Base Indigena Araca",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9187243",
+         "description": "CNES"
+        },
+        {
+         "code": "140002",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.652,
+        "lng": -61.371
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4243846",
+       "name": "Polo Base Indigena Barro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4243846",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 4.431,
+        "lng": -61.146
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7459211",
+       "name": "Polo Base Indigena Campo Formoso",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7459211",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 4.7220212,
+        "lng": -60.7733035
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4243897",
+       "name": "Polo Base Indigena Canta Galo",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4243897",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 4.431,
+        "lng": -61.146
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2320142",
+       "name": "Polo Base Indigena Jacamim",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2320142",
+         "description": "CNES"
+        },
+        {
+         "code": "140015",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.36,
+        "lng": -59.833
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7775709",
+       "name": "Polo Base Indigena Jacarezinho",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7775709",
+         "description": "CNES"
+        },
+        {
+         "code": "140040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.7978737746,
+        "lng": -59.7351765633
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-5572320",
+       "name": "Polo Base Indigena Jatapuzinho",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "5572320",
+         "description": "CNES"
+        },
+        {
+         "code": "140023",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.8721777707,
+        "lng": -59.6984195709
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2320126",
+       "name": "Polo Base Indigena Manoa",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2320126",
+         "description": "CNES"
+        },
+        {
+         "code": "140015",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.18987916,
+        "lng": -59.9606323242
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2319829",
+       "name": "Polo Base Indigena Milho",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2319829",
+         "description": "CNES"
+        },
+        {
+         "code": "140010",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.2022195551,
+        "lng": -60.5017089844
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7459238",
+       "name": "Polo Base Indigena Pedreira",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7459238",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 4.474175,
+        "lng": -60.8023944
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4243838",
+       "name": "Polo Base Indigena Roca",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4243838",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.793275,
+        "lng": -60.5147861
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4229215",
+       "name": "Polo Base Indigena Sorocaima Ii",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4229215",
+         "description": "CNES"
+        },
+        {
+         "code": "140045",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 4.4134204327,
+        "lng": -61.1619186401
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9232214",
+       "name": "Polo Base Indigena Teso do Gaviao",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9232214",
+         "description": "CNES"
+        },
+        {
+         "code": "140040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 3.8911437525,
+        "lng": -59.6607398987
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-litoral-sul",
+     "name": "DSEI Litoral Sul",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7859228",
+       "name": "Polo Base Angra dos Reis",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7859228",
+         "description": "CNES"
+        },
+        {
+         "code": "330010",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -23.015,
+        "lng": -44.537
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7889291",
+       "name": "Polo Base Miracatu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7889291",
+         "description": "CNES"
+        },
+        {
+         "code": "352990",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -24.2855015,
+        "lng": -47.451641
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2869373",
+       "name": "Polo Base Peruibe Itariri",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2869373",
+         "description": "CNES"
+        },
+        {
+         "code": "353760",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -24.3234185,
+        "lng": -46.9990266
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7554885",
+       "name": "Polo Base de Registro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7554885",
+         "description": "CNES"
+        },
+        {
+         "code": "354260",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -24.508480707,
+        "lng": -47.8462851048
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-manaus",
+     "name": "DSEI Manaus",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-9423389",
+       "name": "Polo Base Boca do Jauari",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9423389",
+         "description": "CNES"
+        },
+        {
+         "code": "130270",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.809,
+        "lng": -61.3
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9423370",
+       "name": "Polo Base Manicore",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9423370",
+         "description": "CNES"
+        },
+        {
+         "code": "130270",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.8003547084,
+        "lng": -61.2841803538
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7132034",
+       "name": "Polo Base Nossa Senhora da Saude",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7132034",
+         "description": "CNES"
+        },
+        {
+         "code": "130260",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -2.78475265,
+        "lng": -60.4517862409
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9423397",
+       "name": "Polo Base Ponta Natal",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9423397",
+         "description": "CNES"
+        },
+        {
+         "code": "130270",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.809,
+        "lng": -61.3
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-maranhao",
+     "name": "DSEI Maranhão",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Maranhao"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7578725",
+       "name": "Polo Base Indigena de Barra do Corda",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7578725",
+         "description": "CNES"
+        },
+        {
+         "code": "210160",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.5095017261,
+        "lng": -45.2469778061
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-mato-grosso-sul",
+     "name": "DSEI Mato Grosso do Sul",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7006519",
+       "name": "Polo Base de Aquidauana",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7006519",
+         "description": "CNES"
+        },
+        {
+         "code": "500110",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -20.476135,
+        "lng": -55.7982781
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6889158",
+       "name": "Polo Base de Tacuru",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6889158",
+         "description": "CNES"
+        },
+        {
+         "code": "500795",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -23.633,
+        "lng": -55.016
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-medio-rio-purus",
+     "name": "DSEI Médio Rio Purus",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Medio Rio Purus"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-9472851",
+       "name": "Polo Base Abaquadi",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9472851",
+         "description": "CNES"
+        },
+        {
+         "code": "130410",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.628,
+        "lng": -63.183
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9425640",
+       "name": "Polo Base Casa Nova",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9425640",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.3333443,
+        "lng": -63.9959100593
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9425691",
+       "name": "Polo Base Chico Camilo",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9425691",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.164465,
+        "lng": -64.475106
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9425578",
+       "name": "Polo Base Crispim",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9425578",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.2619465,
+        "lng": -64.794773
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9427171",
+       "name": "Polo Base Iminaa",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9427171",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.164465,
+        "lng": -64.475106
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4206991",
+       "name": "Polo Base Japiim",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4206991",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.465964348,
+        "lng": -64.8687744141
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9472878",
+       "name": "Polo Base Marrecao",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9472878",
+         "description": "CNES"
+        },
+        {
+         "code": "130410",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.628,
+        "lng": -63.183
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9425675",
+       "name": "Polo Base Sao Pedro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9425675",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.3719154225,
+        "lng": -64.9176979065
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9472835",
+       "name": "Polo Base Tawamirim",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9472835",
+         "description": "CNES"
+        },
+        {
+         "code": "130410",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -5.6179827,
+        "lng": -63.1868793
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9427155",
+       "name": "Polo Base Tumia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9427155",
+         "description": "CNES"
+        },
+        {
+         "code": "130240",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.473872,
+        "lng": -65.311199
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-medio-rio-solimoes",
+     "name": "DSEI Médio Rio Solimões e Afluentes",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Medio Rio Solimoes e Afluentes"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-6058396",
+       "name": "Polo Base Barreira da Missao",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6058396",
+         "description": "CNES"
+        },
+        {
+         "code": "130420",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -3.3922339479,
+        "lng": -64.6372032166
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7671660",
+       "name": "Polo Base Bua Bua",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7671660",
+         "description": "CNES"
+        },
+        {
+         "code": "130210",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -1.7743516363,
+        "lng": -66.9060516357
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7507844",
+       "name": "Polo Base Carauari",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7507844",
+         "description": "CNES"
+        },
+        {
+         "code": "130100",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.883,
+        "lng": -66.896
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7418442",
+       "name": "Polo Base Coari",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7418442",
+         "description": "CNES"
+        },
+        {
+         "code": "130120",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.0832280384,
+        "lng": -63.1427702308
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7585381",
+       "name": "Polo Base Envira",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7585381",
+         "description": "CNES"
+        },
+        {
+         "code": "130150",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.4320494752,
+        "lng": -70.0212550163
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-9239774",
+       "name": "Polo Base Morada Nova",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9239774",
+         "description": "CNES"
+        },
+        {
+         "code": "130195",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.2852333,
+        "lng": -67.8874934
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7356188",
+       "name": "Polo Base Uarini",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7356188",
+         "description": "CNES"
+        },
+        {
+         "code": "130426",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -2.8717217001,
+        "lng": -65.0006103316
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-minas-gerais-espirito-santo",
+     "name": "DSEI Minas Gerais e Espírito Santo",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Minas Gerais e Espirito Santo"
+     ]
+    },
+    "children": []
+   },
+   {
+    "location": {
+     "id": "br-dsei-parintins",
+     "name": "DSEI Parintins",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": []
+   },
+   {
+    "location": {
+     "id": "br-dsei-pernambuco",
+     "name": "DSEI Pernambuco",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7388667",
+       "name": "Polo Base Kambiwa Ibimirim",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7388667",
+         "description": "CNES"
+        },
+        {
+         "code": "260660",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.539339,
+        "lng": -37.6882197
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7378351",
+       "name": "Polo Base Kapinawa",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7378351",
+         "description": "CNES"
+        },
+        {
+         "code": "260280",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.6196631404,
+        "lng": -37.1552549812
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7381107",
+       "name": "Polo Base Pankararu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7381107",
+         "description": "CNES"
+        },
+        {
+         "code": "260805",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.1744870025,
+        "lng": -38.242893219
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7382030",
+       "name": "Polo Base Pankararu Entre Serras",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7382030",
+         "description": "CNES"
+        },
+        {
+         "code": "261480",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.103193189,
+        "lng": -38.1484633684
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7397615",
+       "name": "Polo Base Pipipan",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7397615",
+         "description": "CNES"
+        },
+        {
+         "code": "260570",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.5964292,
+        "lng": -38.5746812
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7395922",
+       "name": "Polo Base Truka",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7395922",
+         "description": "CNES"
+        },
+        {
+         "code": "260300",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.512,
+        "lng": -39.307
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6608299",
+       "name": "Polo Base Truka Tapera",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6608299",
+         "description": "CNES"
+        },
+        {
+         "code": "260980",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.6070551146,
+        "lng": -39.5825847631
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-5129761",
+       "name": "Polo Base Xukuru de Cimbres",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "5129761",
+         "description": "CNES"
+        },
+        {
+         "code": "261090",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.34096,
+        "lng": -36.82891
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7385986",
+       "name": "Polo Base Xukuru do Ororuba",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7385986",
+         "description": "CNES"
+        },
+        {
+         "code": "261090",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.358,
+        "lng": -36.696
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-porto-velho",
+     "name": "DSEI Porto Velho",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7633238",
+       "name": "Polo Base Porto Velho",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7633238",
+         "description": "CNES"
+        },
+        {
+         "code": "110020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -8.762,
+        "lng": -63.904
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7332963",
+       "name": "Polo Base de Guajara Mirim Ro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7332963",
+         "description": "CNES"
+        },
+        {
+         "code": "110010",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -10.7776621442,
+        "lng": -65.3196430206
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-potiguara",
+     "name": "DSEI Potiguara",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7469462",
+       "name": "Polo Base Baia da Traicao Aldeia Forte",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7469462",
+         "description": "CNES"
+        },
+        {
+         "code": "250140",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.6723653136,
+        "lng": -34.9537968636
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-rio-tapajos",
+     "name": "DSEI Rio Tapajós",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": [
+      "DSEI Rio Tapajos"
+     ]
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7594313",
+       "name": "Polo Base Carocal Rtp",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7594313",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.1047115207,
+        "lng": -57.612991333
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7921810",
+       "name": "Polo Base Jacareacanga Tipo Ii",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7921810",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.2229851073,
+        "lng": -57.7556848526
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7588623",
+       "name": "Polo Base Karapanatuba",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7588623",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.1726409898,
+        "lng": -57.6665496826
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7593635",
+       "name": "Polo Base Kato",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7593635",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.7409862088,
+        "lng": -58.5186767578
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7921802",
+       "name": "Polo Base Missao Cururu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7921802",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.6124470608,
+        "lng": -57.5906110557
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7708343",
+       "name": "Polo Base Novo Progresso",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7708343",
+         "description": "CNES"
+        },
+        {
+         "code": "150503",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -7.0340541351,
+        "lng": -55.4162836075
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7592248",
+       "name": "Polo Base Restinga",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7592248",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.3963385215,
+        "lng": -57.9940634122
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7588755",
+       "name": "Polo Base Sai Cinza",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7588755",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.590102,
+        "lng": -57.713138
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7593260",
+       "name": "Polo Base Santa Maria",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7593260",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.884084,
+        "lng": -58.187365
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7597355",
+       "name": "Polo Base Teles Pires",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7597355",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.9700494173,
+        "lng": -58.359375
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7591691",
+       "name": "Polo Base Waro Apompo Munduruku",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7591691",
+         "description": "CNES"
+        },
+        {
+         "code": "150375",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.0422361117,
+        "lng": -58.6395263672
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7431023",
+       "name": "Polo Base de Itaituba",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7431023",
+         "description": "CNES"
+        },
+        {
+         "code": "150360",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -4.258624,
+        "lng": -55.972122
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-tocantins",
+     "name": "DSEI Tocantins",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7395701",
+       "name": "Polo Base de Formoso do Araguaia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7395701",
+         "description": "CNES"
+        },
+        {
+         "code": "170820",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -11.797134,
+        "lng": -49.53081
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7941226",
+       "name": "Polo Base de Saude Indigena",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7941226",
+         "description": "CNES"
+        },
+        {
+         "code": "172110",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -9.564,
+        "lng": -48.377
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7395620",
+       "name": "Polo Base de Tocantinopolis",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7395620",
+         "description": "CNES"
+        },
+        {
+         "code": "172120",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -6.3240853768,
+        "lng": -47.4363040924
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-vale-javari",
+     "name": "DSEI Vale do Javari",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": []
+   },
+   {
+    "location": {
+     "id": "br-dsei-vilhena",
+     "name": "DSEI Vilhena",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7497725",
+       "name": "Polo Base Saude Indigena Aripuana",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7497725",
+         "description": "CNES"
+        },
+        {
+         "code": "510140",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -10.1698120222,
+        "lng": -59.457321167
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-xavante",
+     "name": "DSEI Xavante",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-9841997",
+       "name": "Polo Base Marechal Rondon",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "9841997",
+         "description": "CNES"
+        },
+        {
+         "code": "510630",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -13.9767153946,
+        "lng": -53.9744567871
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7342039",
+       "name": "Polo Base de Sangradouro",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7342039",
+         "description": "CNES"
+        },
+        {
+         "code": "510390",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -15.65112,
+        "lng": -53.90872
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4521110",
+       "name": "Polo Base de Saude Indigena Maraiwatsede",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4521110",
+         "description": "CNES"
+        },
+        {
+         "code": "510035",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -11.6738717467,
+        "lng": -51.3934518454
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-xingu",
+     "name": "DSEI Xingu",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-7801874",
+       "name": "Unidade Basica de Atencao A Saude Polo Wawi",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7801874",
+         "description": "CNES"
+        },
+        {
+         "code": "510706",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -11.524433115,
+        "lng": -53.0694580078
+       }
+      },
+      "children": []
+     }
+    ]
+   },
+   {
+    "location": {
+     "id": "br-dsei-yanomami",
+     "name": "DSEI Yanomami",
+     "active": true,
+     "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_1",
+     "identifiers": [],
+     "synonyms": []
+    },
+    "children": [
+     {
+      "location": {
+       "id": "br-polo-2846950",
+       "name": "Polo Base Administrativo de Barcelos Yanomami",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2846950",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.973412652,
+        "lng": -62.9240977764
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6954510",
+       "name": "Polo Base Ajarani",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6954510",
+         "description": "CNES"
+        },
+        {
+         "code": "140020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.80387124,
+        "lng": -61.149176
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7170815",
+       "name": "Polo Base Alto Catrimani",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7170815",
+         "description": "CNES"
+        },
+        {
+         "code": "140030",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.43,
+        "lng": -60.9
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7170793",
+       "name": "Polo Base Apiau",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7170793",
+         "description": "CNES"
+        },
+        {
+         "code": "140030",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.43,
+        "lng": -61.76590534
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7149743",
+       "name": "Polo Base Ariabu Maturaca",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7149743",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.6286006228,
+        "lng": -66.1365687847
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6954456",
+       "name": "Polo Base Baixo Catrimani",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6954456",
+         "description": "CNES"
+        },
+        {
+         "code": "140020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.8625411403,
+        "lng": -61.1821746826
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2846934",
+       "name": "Polo Base Bandeira Branca",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2846934",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.975,
+        "lng": -62.924
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6856586",
+       "name": "Polo Base Hakoma",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6856586",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6856330",
+       "name": "Polo Base Haxiu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6856330",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2846926",
+       "name": "Polo Base Hemaripiwei",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2846926",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.13485,
+        "lng": -64.10562
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7163215",
+       "name": "Polo Base Kayanau",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7163215",
+         "description": "CNES"
+        },
+        {
+         "code": "140028",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.182,
+        "lng": -61.041
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6856357",
+       "name": "Polo Base Ketaa",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6856357",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-2846942",
+       "name": "Polo Base Koherepi",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "2846942",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 0.47034689,
+        "lng": -62.8129577637
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4651170",
+       "name": "Polo Base Lahaka",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4651170",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.1428221177,
+        "lng": -63.1109619141
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7149751",
+       "name": "Polo Base Maia",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7149751",
+         "description": "CNES"
+        },
+        {
+         "code": "130380",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -0.153808409,
+        "lng": -67.1539306641
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-7163231",
+       "name": "Polo Base Maloca Paapiu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "7163231",
+         "description": "CNES"
+        },
+        {
+         "code": "140028",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.167258,
+        "lng": -61.0527431
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6954480",
+       "name": "Polo Base Missao Catrimani",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6954480",
+         "description": "CNES"
+        },
+        {
+         "code": "140020",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 1.80387124,
+        "lng": -61.149176
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6934404",
+       "name": "Polo Base Surucucu",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6934404",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6856349",
+       "name": "Polo Base Waputha",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6856349",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-4650077",
+       "name": "Polo Base Xamani",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "4650077",
+         "description": "CNES"
+        },
+        {
+         "code": "130040",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": -1.5125043548,
+        "lng": -63.3701705933
+       }
+      },
+      "children": []
+     },
+     {
+      "location": {
+       "id": "br-polo-6554350",
+       "name": "Polo Base Xitei",
+       "active": true,
+       "geographicalLevelId": "LNG_REFERENCE_DATA_CATEGORY_LOCATION_GEOGRAPHICAL_LEVEL_ADMIN_LEVEL_2",
+       "identifiers": [
+        {
+         "code": "6554350",
+         "description": "CNES"
+        },
+        {
+         "code": "140005",
+         "description": "IBGE6 (SINAN) município"
+        }
+       ],
+       "synonyms": [],
+       "geoLocation": {
+        "lat": 2.98,
+        "lng": -61.292
+       }
+      },
+      "children": []
+     }
+    ]
+   }
+  ]
+ }
+]

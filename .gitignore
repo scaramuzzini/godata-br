@@ -1,0 +1,4 @@
+vendor/
+data/raw/
+analysis/tokens.jsonl
+__pycache__/

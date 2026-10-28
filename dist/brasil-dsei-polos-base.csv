@@ -1,0 +1,194 @@
+NAME,ID,CODE,LONG,LAT,ADMIN_LEVEL,PARENTLOCATIONID
+Brasil - Distritos Sanitários Especiais Indígenas (DSEI),br-dsei,,,,0,
+DSEI Alagoas e Sergipe,br-dsei-alagoas-sergipe,,,,1,br-dsei
+Polo Base Indigena Kalanko,br-polo-6352219,6352219,-37.938,-9.262,2,br-dsei-alagoas-sergipe
+Polo Base de Saude Indigena Koiupanka,br-polo-4147847,4147847,-37.7555680275,-9.2157070565,2,br-dsei-alagoas-sergipe
+DSEI Altamira,br-dsei-altamira,,,,1,br-dsei
+DSEI Alto Rio Juruá,br-dsei-alto-rio-jurua,,,,1,br-dsei
+Polo Base Indigena,br-polo-6430201,6430201,-71.7640686035,-9.2349597921,2,br-dsei-alto-rio-jurua
+Polo Base de Cruzeiro do Sul,br-polo-6917682,6917682,-72.5378966331,-7.7349125743,2,br-dsei-alto-rio-jurua
+Polo Base de Feijo,br-polo-6748759,6748759,-70.3533983231,-8.1607715119,2,br-dsei-alto-rio-jurua
+Polo Base de Mancio Lima,br-polo-6955525,6955525,-72.9077625275,-7.6067870454,2,br-dsei-alto-rio-jurua
+Polo Base de Marechal Thaumaturgo,br-polo-7625855,7625855,-72.78765,-8.9454024074,2,br-dsei-alto-rio-jurua
+Polo Base de Porto Walter,br-polo-6308740,6308740,-72.7438044548,-8.264050094,2,br-dsei-alto-rio-jurua
+DSEI Alto Rio Negro,br-dsei-alto-rio-negro,,,,1,br-dsei
+Polo Base Camarao,br-polo-7620144,7620144,-67.4480617046,0.6217667611,2,br-dsei-alto-rio-negro
+Polo Base Caruru do Tiquie,br-polo-7620241,7620241,-67.4615478516,-0.0219726557,2,br-dsei-alto-rio-negro
+Polo Base Cucui,br-polo-7620306,7620306,-66.502263,1.0,2,br-dsei-alto-rio-negro
+Polo Base Ilha Das Flores,br-polo-7620152,7620152,-67.16149304,0.01441876,2,br-dsei-alto-rio-negro
+Polo Base Juruti,br-polo-7620217,7620217,-67.14557232,0.37348132,2,br-dsei-alto-rio-negro
+Polo Base Marabitana do Waupes,br-polo-7620853,7620853,-67.089,-0.13,2,br-dsei-alto-rio-negro
+Polo Base Santa Isabel do Rio Negro Dsei Arn,br-polo-7777930,7777930,-65.0089449,-0.4195568,2,br-dsei-alto-rio-negro
+Polo Base Sao Gabriel do Papuri,br-polo-9493425,9493425,-67.089,-0.13,2,br-dsei-alto-rio-negro
+Polo Base Sao Jose Ii,br-polo-7620195,7620195,-67.089,-0.13,2,br-dsei-alto-rio-negro
+Polo Base Taperera,br-polo-7620233,7620233,-66.171716,-0.22243264,2,br-dsei-alto-rio-negro
+Polo Base Taracua,br-polo-9523022,9523022,-68.3262008,0.0758214,2,br-dsei-alto-rio-negro
+Polo Base Tucuma,br-polo-9523006,9523006,-68.384272,1.29229812,2,br-dsei-alto-rio-negro
+Polo Base Tunui Cachoeira,br-polo-7620187,7620187,-67.9943847656,1.1095497845,2,br-dsei-alto-rio-negro
+Polo Base Vila Nova,br-polo-7620160,7620160,-67.1096866,0.574767,2,br-dsei-alto-rio-negro
+DSEI Alto Rio Purus,br-dsei-alto-rio-purus,,,,1,br-dsei
+Polo Base de Boca do Acre,br-polo-7299761,7299761,-67.3301625252,-8.7754185836,2,br-dsei-alto-rio-purus
+Polo Base de Extrema,br-polo-7532962,7532962,-63.984375,-8.6679180024,2,br-dsei-alto-rio-purus
+Polo Base de Manoel Urbano,br-polo-2965941,2965941,-69.2596149445,-8.838597921,2,br-dsei-alto-rio-purus
+Polo Base de Santa Rosa do Purus,br-polo-6289312,6289312,-70.485534668,-9.4433044817,2,br-dsei-alto-rio-purus
+DSEI Alto Rio Solimões,br-dsei-alto-rio-solimoes,,,,1,br-dsei
+Polo Base Feijoal,br-polo-5591171,5591171,-69.5412522554,-4.3005315939,2,br-dsei-alto-rio-solimoes
+Polo Base Filadelfia,br-polo-5480000,5480000,-69.9944656,-4.3844304,2,br-dsei-alto-rio-solimoes
+Polo Base Nova Italia,br-polo-7007507,7007507,-68.2252264023,-3.4092627574,2,br-dsei-alto-rio-solimoes
+Polo Base Sao Francisco de Canimari,br-polo-9329749,9329749,-68.3493804932,-3.3883354863,2,br-dsei-alto-rio-solimoes
+Polo Base Sao Sebastiao,br-polo-7194218,7194218,-67.6232528687,-2.7448448613,2,br-dsei-alto-rio-solimoes
+Polo Base Vila Bittencourt,br-polo-5244714,5244714,-67.2033691406,-1.8344033245,2,br-dsei-alto-rio-solimoes
+Polo Base de Belem do Solimoes,br-polo-6992803,6992803,-69.938,-4.253,2,br-dsei-alto-rio-solimoes
+Polo Base de Betania,br-polo-7295820,7295820,-67.94,-3.102,2,br-dsei-alto-rio-solimoes
+Polo Base de Campo Alegre,br-polo-6818404,6818404,-69.0435791016,-3.5134210456,2,br-dsei-alto-rio-solimoes
+Polo Base de Sao Paulo de Olivenca,br-polo-6938884,6938884,-68.9543151855,-3.4818941876,2,br-dsei-alto-rio-solimoes
+Polo Base de Umariacu I,br-polo-6955967,6955967,-69.938,-4.253,2,br-dsei-alto-rio-solimoes
+Polo Base de Umariacu Ii,br-polo-6712606,6712606,-69.938,-4.253,2,br-dsei-alto-rio-solimoes
+Polo Base de Vendaval,br-polo-6771513,6771513,-69.1197967529,-3.4642455393,2,br-dsei-alto-rio-solimoes
+DSEI Amapá e Norte do Pará,br-dsei-amapa-norte-para,,,,1,br-dsei
+Dsei Ap Polo Base de Saude Indigena Aramira,br-polo-2021412,2021412,-52.580909729,1.1134114388,2,br-dsei-amapa-norte-para
+Dsei Ap Polo Base de Saude Indigena Kumaruma,br-polo-2021110,2021110,-51.3000597,3.3810866,2,br-dsei-amapa-norte-para
+Dsei Ap Polo Base de Saude Indigena Kumene,br-polo-2021102,2021102,-51.6989135742,3.4805234306,2,br-dsei-amapa-norte-para
+Dsei Ap Polo Base de Saude Indigena Manga,br-polo-2021137,2021137,-51.7868900299,3.7668172153,2,br-dsei-amapa-norte-para
+Dsei Polo Base Bona Apalai,br-polo-494747,494747,-52.5835490227,-1.5188750537,2,br-dsei-amapa-norte-para
+DSEI Araguaia,br-dsei-araguaia,,,,1,br-dsei
+Polo Base de Saude Indigena de Sao Felix do Araguaia,br-polo-7738110,7738110,-50.662631,-11.615807,2,br-dsei-araguaia
+DSEI Bahia,br-dsei-bahia,,,,1,br-dsei
+Polo Base de Ilheus,br-polo-7502354,7502354,-39.0457752,-14.7866049,2,br-dsei-bahia
+Polo Base de Juazeiro,br-polo-7821840,7821840,-40.5029439926,-9.4141564463,2,br-dsei-bahia
+Polo Base de Pau Brasil,br-polo-7496915,7496915,-39.6528798307,-15.4639239127,2,br-dsei-bahia
+Polo Base de Paulo Afonso,br-polo-7340060,7340060,-38.2333224,-9.396456,2,br-dsei-bahia
+Polo Base de Porto Seguro,br-polo-7494335,7494335,-39.065,-16.45,2,br-dsei-bahia
+Polo Base de Ribeira do Pombal,br-polo-7735200,7735200,-38.5440945625,-10.831598883,2,br-dsei-bahia
+DSEI Ceará,br-dsei-ceara,,,,1,br-dsei
+Polo Base Varjota,br-polo-2806355,2806355,-39.8217701912,-2.9853309674,2,br-dsei-ceara
+DSEI Cuiabá,br-dsei-cuiaba,,,,1,br-dsei
+Polo Base Aldeia Pakuera,br-polo-7452128,7452128,-54.6281433105,-14.29898516,2,br-dsei-cuiaba
+Polo Base Brasnorte,br-polo-7567367,7567367,-57.9995727539,-12.072608,2,br-dsei-cuiaba
+Polo Base Cuiaba,br-polo-7427018,7427018,-56.061801,-15.354941,2,br-dsei-cuiaba
+Polo Base Rio Verde,br-polo-7080158,7080158,-57.4859404564,-14.6191117858,2,br-dsei-cuiaba
+Polo Base Rondonopolis,br-polo-7458444,7458444,-54.6358251572,-16.4713163496,2,br-dsei-cuiaba
+Polo Base Tangara da Serra,br-polo-7617453,7617453,-57.4970340729,-14.6128620397,2,br-dsei-cuiaba
+DSEI Guamá-Tocantins,br-dsei-guama-tocantins,,,,1,br-dsei
+Polo Base Oriximina,br-polo-7436319,7436319,-55.8611440659,-1.7762175577,2,br-dsei-guama-tocantins
+Polo Base de Saude Aldeia Indigena de Tome Acu Ii,br-polo-7573049,7573049,-48.152,-2.419,2,br-dsei-guama-tocantins
+DSEI Interior Sul,br-dsei-interior-sul,,,,1,br-dsei
+Polo Base Guarita,br-polo-7941765,7941765,-53.74989957,-27.37550208,2,br-dsei-interior-sul
+DSEI Kaiapó do Mato Grosso,br-dsei-kaiapo-mato-grosso,,,,1,br-dsei
+DSEI Kaiapó do Pará,br-dsei-kaiapo-para,,,,1,br-dsei
+Polo Base Ourilandia do Norte,br-polo-7494548,7494548,-51.0653328896,-6.7638079675,2,br-dsei-kaiapo-para
+Polo Base Sao Felix do Xingu,br-polo-7504179,7504179,-51.9843864441,-6.6394153369,2,br-dsei-kaiapo-para
+Polo Base Tucuma,br-polo-7496397,7496397,-51.157286,-6.76001,2,br-dsei-kaiapo-para
+DSEI Leste de Roraima,br-dsei-leste-roraima,,,,1,br-dsei
+Polo Base Indigena Araca,br-polo-9187243,9187243,-61.371,3.652,2,br-dsei-leste-roraima
+Polo Base Indigena Barro,br-polo-4243846,4243846,-61.146,4.431,2,br-dsei-leste-roraima
+Polo Base Indigena Campo Formoso,br-polo-7459211,7459211,-60.7733035,4.7220212,2,br-dsei-leste-roraima
+Polo Base Indigena Canta Galo,br-polo-4243897,4243897,-61.146,4.431,2,br-dsei-leste-roraima
+Polo Base Indigena Jacamim,br-polo-2320142,2320142,-59.833,3.36,2,br-dsei-leste-roraima
+Polo Base Indigena Jacarezinho,br-polo-7775709,7775709,-59.7351765633,3.7978737746,2,br-dsei-leste-roraima
+Polo Base Indigena Jatapuzinho,br-polo-5572320,5572320,-59.6984195709,0.8721777707,2,br-dsei-leste-roraima
+Polo Base Indigena Manoa,br-polo-2320126,2320126,-59.9606323242,3.18987916,2,br-dsei-leste-roraima
+Polo Base Indigena Milho,br-polo-2319829,2319829,-60.5017089844,3.2022195551,2,br-dsei-leste-roraima
+Polo Base Indigena Pedreira,br-polo-7459238,7459238,-60.8023944,4.474175,2,br-dsei-leste-roraima
+Polo Base Indigena Roca,br-polo-4243838,4243838,-60.5147861,3.793275,2,br-dsei-leste-roraima
+Polo Base Indigena Sorocaima Ii,br-polo-4229215,4229215,-61.1619186401,4.4134204327,2,br-dsei-leste-roraima
+Polo Base Indigena Teso do Gaviao,br-polo-9232214,9232214,-59.6607398987,3.8911437525,2,br-dsei-leste-roraima
+DSEI Litoral Sul,br-dsei-litoral-sul,,,,1,br-dsei
+Polo Base Angra dos Reis,br-polo-7859228,7859228,-44.537,-23.015,2,br-dsei-litoral-sul
+Polo Base Miracatu,br-polo-7889291,7889291,-47.451641,-24.2855015,2,br-dsei-litoral-sul
+Polo Base Peruibe Itariri,br-polo-2869373,2869373,-46.9990266,-24.3234185,2,br-dsei-litoral-sul
+Polo Base de Registro,br-polo-7554885,7554885,-47.8462851048,-24.508480707,2,br-dsei-litoral-sul
+DSEI Manaus,br-dsei-manaus,,,,1,br-dsei
+Polo Base Boca do Jauari,br-polo-9423389,9423389,-61.3,-5.809,2,br-dsei-manaus
+Polo Base Manicore,br-polo-9423370,9423370,-61.2841803538,-5.8003547084,2,br-dsei-manaus
+Polo Base Nossa Senhora da Saude,br-polo-7132034,7132034,-60.4517862409,-2.78475265,2,br-dsei-manaus
+Polo Base Ponta Natal,br-polo-9423397,9423397,-61.3,-5.809,2,br-dsei-manaus
+DSEI Maranhão,br-dsei-maranhao,,,,1,br-dsei
+Polo Base Indigena de Barra do Corda,br-polo-7578725,7578725,-45.2469778061,-5.5095017261,2,br-dsei-maranhao
+DSEI Mato Grosso do Sul,br-dsei-mato-grosso-sul,,,,1,br-dsei
+Polo Base de Aquidauana,br-polo-7006519,7006519,-55.7982781,-20.476135,2,br-dsei-mato-grosso-sul
+Polo Base de Tacuru,br-polo-6889158,6889158,-55.016,-23.633,2,br-dsei-mato-grosso-sul
+DSEI Médio Rio Purus,br-dsei-medio-rio-purus,,,,1,br-dsei
+Polo Base Abaquadi,br-polo-9472851,9472851,-63.183,-5.628,2,br-dsei-medio-rio-purus
+Polo Base Casa Nova,br-polo-9425640,9425640,-63.9959100593,-7.3333443,2,br-dsei-medio-rio-purus
+Polo Base Chico Camilo,br-polo-9425691,9425691,-64.475106,-7.164465,2,br-dsei-medio-rio-purus
+Polo Base Crispim,br-polo-9425578,9425578,-64.794773,-7.2619465,2,br-dsei-medio-rio-purus
+Polo Base Iminaa,br-polo-9427171,9427171,-64.475106,-7.164465,2,br-dsei-medio-rio-purus
+Polo Base Japiim,br-polo-4206991,4206991,-64.8687744141,-7.465964348,2,br-dsei-medio-rio-purus
+Polo Base Marrecao,br-polo-9472878,9472878,-63.183,-5.628,2,br-dsei-medio-rio-purus
+Polo Base Sao Pedro,br-polo-9425675,9425675,-64.9176979065,-7.3719154225,2,br-dsei-medio-rio-purus
+Polo Base Tawamirim,br-polo-9472835,9472835,-63.1868793,-5.6179827,2,br-dsei-medio-rio-purus
+Polo Base Tumia,br-polo-9427155,9427155,-65.311199,-7.473872,2,br-dsei-medio-rio-purus
+DSEI Médio Rio Solimões e Afluentes,br-dsei-medio-rio-solimoes,,,,1,br-dsei
+Polo Base Barreira da Missao,br-polo-6058396,6058396,-64.6372032166,-3.3922339479,2,br-dsei-medio-rio-solimoes
+Polo Base Bua Bua,br-polo-7671660,7671660,-66.9060516357,-1.7743516363,2,br-dsei-medio-rio-solimoes
+Polo Base Carauari,br-polo-7507844,7507844,-66.896,-4.883,2,br-dsei-medio-rio-solimoes
+Polo Base Coari,br-polo-7418442,7418442,-63.1427702308,-4.0832280384,2,br-dsei-medio-rio-solimoes
+Polo Base Envira,br-polo-7585381,7585381,-70.0212550163,-7.4320494752,2,br-dsei-medio-rio-solimoes
+Polo Base Morada Nova,br-polo-9239774,9239774,-67.8874934,-6.2852333,2,br-dsei-medio-rio-solimoes
+Polo Base Uarini,br-polo-7356188,7356188,-65.0006103316,-2.8717217001,2,br-dsei-medio-rio-solimoes
+DSEI Minas Gerais e Espírito Santo,br-dsei-minas-gerais-espirito-santo,,,,1,br-dsei
+DSEI Parintins,br-dsei-parintins,,,,1,br-dsei
+DSEI Pernambuco,br-dsei-pernambuco,,,,1,br-dsei
+Polo Base Kambiwa Ibimirim,br-polo-7388667,7388667,-37.6882197,-8.539339,2,br-dsei-pernambuco
+Polo Base Kapinawa,br-polo-7378351,7378351,-37.1552549812,-8.6196631404,2,br-dsei-pernambuco
+Polo Base Pankararu,br-polo-7381107,7381107,-38.242893219,-9.1744870025,2,br-dsei-pernambuco
+Polo Base Pankararu Entre Serras,br-polo-7382030,7382030,-38.1484633684,-9.103193189,2,br-dsei-pernambuco
+Polo Base Pipipan,br-polo-7397615,7397615,-38.5746812,-8.5964292,2,br-dsei-pernambuco
+Polo Base Truka,br-polo-7395922,7395922,-39.307,-8.512,2,br-dsei-pernambuco
+Polo Base Truka Tapera,br-polo-6608299,6608299,-39.5825847631,-8.6070551146,2,br-dsei-pernambuco
+Polo Base Xukuru de Cimbres,br-polo-5129761,5129761,-36.82891,-8.34096,2,br-dsei-pernambuco
+Polo Base Xukuru do Ororuba,br-polo-7385986,7385986,-36.696,-8.358,2,br-dsei-pernambuco
+DSEI Porto Velho,br-dsei-porto-velho,,,,1,br-dsei
+Polo Base Porto Velho,br-polo-7633238,7633238,-63.904,-8.762,2,br-dsei-porto-velho
+Polo Base de Guajara Mirim Ro,br-polo-7332963,7332963,-65.3196430206,-10.7776621442,2,br-dsei-porto-velho
+DSEI Potiguara,br-dsei-potiguara,,,,1,br-dsei
+Polo Base Baia da Traicao Aldeia Forte,br-polo-7469462,7469462,-34.9537968636,-6.6723653136,2,br-dsei-potiguara
+DSEI Rio Tapajós,br-dsei-rio-tapajos,,,,1,br-dsei
+Polo Base Carocal Rtp,br-polo-7594313,7594313,-57.612991333,-6.1047115207,2,br-dsei-rio-tapajos
+Polo Base Jacareacanga Tipo Ii,br-polo-7921810,7921810,-57.7556848526,-6.2229851073,2,br-dsei-rio-tapajos
+Polo Base Karapanatuba,br-polo-7588623,7588623,-57.6665496826,-6.1726409898,2,br-dsei-rio-tapajos
+Polo Base Kato,br-polo-7593635,7593635,-58.5186767578,-6.7409862088,2,br-dsei-rio-tapajos
+Polo Base Missao Cururu,br-polo-7921802,7921802,-57.5906110557,-7.6124470608,2,br-dsei-rio-tapajos
+Polo Base Novo Progresso,br-polo-7708343,7708343,-55.4162836075,-7.0340541351,2,br-dsei-rio-tapajos
+Polo Base Restinga,br-polo-7592248,7592248,-57.9940634122,-6.3963385215,2,br-dsei-rio-tapajos
+Polo Base Sai Cinza,br-polo-7588755,7588755,-57.713138,-6.590102,2,br-dsei-rio-tapajos
+Polo Base Santa Maria,br-polo-7593260,7593260,-58.187365,-6.884084,2,br-dsei-rio-tapajos
+Polo Base Teles Pires,br-polo-7597355,7597355,-58.359375,-6.9700494173,2,br-dsei-rio-tapajos
+Polo Base Waro Apompo Munduruku,br-polo-7591691,7591691,-58.6395263672,-6.0422361117,2,br-dsei-rio-tapajos
+Polo Base de Itaituba,br-polo-7431023,7431023,-55.972122,-4.258624,2,br-dsei-rio-tapajos
+DSEI Tocantins,br-dsei-tocantins,,,,1,br-dsei
+Polo Base de Formoso do Araguaia,br-polo-7395701,7395701,-49.53081,-11.797134,2,br-dsei-tocantins
+Polo Base de Saude Indigena,br-polo-7941226,7941226,-48.377,-9.564,2,br-dsei-tocantins
+Polo Base de Tocantinopolis,br-polo-7395620,7395620,-47.4363040924,-6.3240853768,2,br-dsei-tocantins
+DSEI Vale do Javari,br-dsei-vale-javari,,,,1,br-dsei
+DSEI Vilhena,br-dsei-vilhena,,,,1,br-dsei
+Polo Base Saude Indigena Aripuana,br-polo-7497725,7497725,-59.457321167,-10.1698120222,2,br-dsei-vilhena
+DSEI Xavante,br-dsei-xavante,,,,1,br-dsei
+Polo Base Marechal Rondon,br-polo-9841997,9841997,-53.9744567871,-13.9767153946,2,br-dsei-xavante
+Polo Base de Sangradouro,br-polo-7342039,7342039,-53.90872,-15.65112,2,br-dsei-xavante
+Polo Base de Saude Indigena Maraiwatsede,br-polo-4521110,4521110,-51.3934518454,-11.6738717467,2,br-dsei-xavante
+DSEI Xingu,br-dsei-xingu,,,,1,br-dsei
+Unidade Basica de Atencao A Saude Polo Wawi,br-polo-7801874,7801874,-53.0694580078,-11.524433115,2,br-dsei-xingu
+DSEI Yanomami,br-dsei-yanomami,,,,1,br-dsei
+Polo Base Administrativo de Barcelos Yanomami,br-polo-2846950,2846950,-62.9240977764,-0.973412652,2,br-dsei-yanomami
+Polo Base Ajarani,br-polo-6954510,6954510,-61.149176,1.80387124,2,br-dsei-yanomami
+Polo Base Alto Catrimani,br-polo-7170815,7170815,-60.9,2.43,2,br-dsei-yanomami
+Polo Base Apiau,br-polo-7170793,7170793,-61.76590534,2.43,2,br-dsei-yanomami
+Polo Base Ariabu Maturaca,br-polo-7149743,7149743,-66.1365687847,0.6286006228,2,br-dsei-yanomami
+Polo Base Baixo Catrimani,br-polo-6954456,6954456,-61.1821746826,1.8625411403,2,br-dsei-yanomami
+Polo Base Bandeira Branca,br-polo-2846934,2846934,-62.924,-0.975,2,br-dsei-yanomami
+Polo Base Hakoma,br-polo-6856586,6856586,-61.292,2.98,2,br-dsei-yanomami
+Polo Base Haxiu,br-polo-6856330,6856330,-61.292,2.98,2,br-dsei-yanomami
+Polo Base Hemaripiwei,br-polo-2846926,2846926,-64.10562,-0.13485,2,br-dsei-yanomami
+Polo Base Kayanau,br-polo-7163215,7163215,-61.041,2.182,2,br-dsei-yanomami
+Polo Base Ketaa,br-polo-6856357,6856357,-61.292,2.98,2,br-dsei-yanomami
+Polo Base Koherepi,br-polo-2846942,2846942,-62.8129577637,0.47034689,2,br-dsei-yanomami
+Polo Base Lahaka,br-polo-4651170,4651170,-63.1109619141,-0.1428221177,2,br-dsei-yanomami
+Polo Base Maia,br-polo-7149751,7149751,-67.1539306641,-0.153808409,2,br-dsei-yanomami
+Polo Base Maloca Paapiu,br-polo-7163231,7163231,-61.0527431,2.167258,2,br-dsei-yanomami
+Polo Base Missao Catrimani,br-polo-6954480,6954480,-61.149176,1.80387124,2,br-dsei-yanomami
+Polo Base Surucucu,br-polo-6934404,6934404,-61.292,2.98,2,br-dsei-yanomami
+Polo Base Waputha,br-polo-6856349,6856349,-61.292,2.98,2,br-dsei-yanomami
+Polo Base Xamani,br-polo-4650077,4650077,-63.3701705933,-1.5125043548,2,br-dsei-yanomami
+Polo Base Xitei,br-polo-6554350,6554350,-61.292,2.98,2,br-dsei-yanomami
