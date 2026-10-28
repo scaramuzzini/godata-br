@@ -77,7 +77,7 @@ The bundled "Português" language (`portuguese_pt`) is incomplete:
 - Some strings are mistranslated. For example, the Locations page title reads "Locais para criança" ("places for children"), and the coordinates column reads "Lat / GNL".
 - The language follows European Portuguese conventions ("contacto", "utilizador", "registo").
 
-`analysis/pt-traducao-pendente.csv` lists every affected string. A complete Brazilian Portuguese language pack is the next deliverable.
+`analysis/pt-traducao-pendente.csv` lists every affected string (snapshot of the official 2.50.3 release).
 
 ## License
 
